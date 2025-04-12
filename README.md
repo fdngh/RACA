@@ -5,7 +5,8 @@ Automated chest radiology report generation aims to leverage artificial intellig
 ## Requirements:
 ## Data:
 Please download the IU and MIMIC datasets, and place them in the `./data/` folder.
-
+👉[IU-Xray](https://iuhealth.org/find-medical-services/x-rays)<br>
+👉[MIMIC-CXR ](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)<br>
 
 ## Training and Testing:
 
