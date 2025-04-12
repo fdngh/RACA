@@ -7,9 +7,9 @@ Automated chest radiology report generation aims to leverage artificial intellig
 Please download the IU and MIMIC datasets, and place them in the `./data/` folder.<br>
 👉[IU-Xray](https://iuhealth.org/find-medical-services/x-rays)<br>
 👉[MIMIC-CXR ](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)<br>
-# Training
+## Training
 run `./train.py`
-# Testing
+## Testing
 run `./test.py`
 ## Acknowledges:
 We thank and [R2Gen](https://github.com/cuhksz-nlp/R2Gen) for their open source works.
